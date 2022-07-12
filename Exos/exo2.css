@@ -1,0 +1,10 @@
+nav ul{
+    border: 1px solid #333;
+    list-style: none;
+    display: flex;
+    justify-content: right;
+}
+
+li{
+    padding: 15px;
+}
